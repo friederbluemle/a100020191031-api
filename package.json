@@ -1,0 +1,28 @@
+{
+  "author": "f0b00n7",
+  "dependencies": {
+    "react-native-electrode-bridge": "1.5.x"
+  },
+  "description": "ERN Generated API for a100020191031Api",
+  "devDependencies": {
+    "flow-bin": "^0.47.0"
+  },
+  "ern": {
+    "message": {
+      "moduleName": "a100020191031Api",
+      "namespace": "com.a100020191031Api.ern",
+      "apiSchemaPath": "schema.json",
+      "artifactId": "react-native-a100020191031Api-api"
+    },
+    "moduleType": "ern-api"
+  },
+  "keywords": [
+    "ern-api"
+  ],
+  "main": "javascript/src/index.js",
+  "name": "a100020191031-api",
+  "scripts": {
+    "flow": "flow"
+  },
+  "version": "1.0.0"
+}
